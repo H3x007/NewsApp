@@ -1,6 +1,18 @@
-# news_app
+# Flutter - News App
 
-A new Flutter project.
+A Simple News App built with Flutter. In this app, From - [Lab: NewsAPI](https://newsapi.org/)
+
+
+# Screens
+## DarkMode & Light Mode
+![Google Pixel 4 XL Presentation (6)](https://user-images.githubusercontent.com/41634372/206904468-4ea26362-eaae-497d-9946-222e3fdcb6b2.png)
+## All Home Screen
+![Google Pixel 4 XL Presentation (7)](https://user-images.githubusercontent.com/41634372/206904604-18e9f1e6-06ab-40e5-8331-ce46c58b88a4.png)
+## News Screen
+![Google Pixel 4 XL Presentation (8)](https://user-images.githubusercontent.com/41634372/206906020-3611f81b-5e81-46e9-9012-527f10c90f5a.png)
+
+
+
 
 ## Getting Started
 
