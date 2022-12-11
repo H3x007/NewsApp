@@ -1,6 +1,12 @@
 # Flutter - News App
 
-A Simple News App built with Flutter. In this app, From - [Lab: NewsAPI](https://newsapi.org/)
+A Simple News App built with Flutter. I used API From - [NewsAPI](https://newsapi.org/), Bloc State Management and Dio.
+
+# Features
+- Easy to use
+- Search News
+- Dark mode & Light mode
+- Interactive UI
 
 
 # Screens
