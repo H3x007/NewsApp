@@ -7,6 +7,7 @@ A Simple News App built with Flutter. I used API From - [NewsAPI](https://newsap
 - Search News
 - Dark mode & Light mode
 - Interactive UI
+- Sort By Channel
 
 
 # Screens
